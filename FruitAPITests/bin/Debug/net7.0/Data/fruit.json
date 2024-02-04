@@ -1,0 +1,302 @@
+[
+    {
+    "name": "Persimmon",
+    "id": 52,
+    "family": "Ebenaceae",
+    "order": "Rosales",
+    "genus": "Diospyros",
+    "image": "https://fruitstorage.blob.core.windows.net/images/persimmon.png",
+    "nutritions": {
+    "calories": 81,
+    "fat": 0,
+    "sugar": 18,
+    "carbohydrates": 18,
+    "protein": 0
+    }
+    },
+    {
+    "name": "Strawberry",
+    "id": 3,
+    "family": "Rosaceae",
+    "order": "Rosales",
+    "genus": "Fragaria",
+    "image": "https://fruitstorage.blob.core.windows.net/images/strawberry.png",
+    "nutritions": {
+    "calories": 29,
+    "fat": 0.4,
+    "sugar": 5.4,
+    "carbohydrates": 5.5,
+    "protein": 0.8
+    }
+    },
+    {
+    "name": "Banana",
+    "id": 1,
+    "family": "Musaceae",
+    "order": "Zingiberales",
+    "genus": "Musa",
+    "image": "https://fruitstorage.blob.core.windows.net/images/banana.png",
+    "nutritions": {
+    "calories": 96,
+    "fat": 0.2,
+    "sugar": 17.2,
+    "carbohydrates": 22,
+    "protein": 1
+    }
+    },
+    {
+    "name": "Tomato",
+    "id": 5,
+    "family": "Solanaceae",
+    "order": "Solanales",
+    "genus": "Solanum",
+    "image": "https://fruitstorage.blob.core.windows.net/images/tomato.png",
+    "nutritions": {
+    "calories": 74,
+    "fat": 0.2,
+    "sugar": 2.6,
+    "carbohydrates": 3.9,
+    "protein": 0.9
+    }
+    },
+    {
+    "name": "Pear",
+    "id": 4,
+    "family": "Rosaceae",
+    "order": "Rosales",
+    "genus": "Pyrus",
+    "image": "https://fruitstorage.blob.core.windows.net/images/pear.png",
+    "nutritions": {
+    "calories": 57,
+    "fat": 0.1,
+    "sugar": 10,
+    "carbohydrates": 15,
+    "protein": 0.4
+    }
+    },
+    {
+    "name": "Durian",
+    "id": 60,
+    "family": "Malvaceae",
+    "order": "Malvales",
+    "genus": "Durio",
+    "image": "https://fruitstorage.blob.core.windows.net/images/durian.png",
+    "nutritions": {
+    "calories": 147,
+    "fat": 5.3,
+    "sugar": 6.75,
+    "carbohydrates": 27.1,
+    "protein": 1.5
+    }
+    },
+    {
+    "name": "Blackberry",
+    "id": 64,
+    "family": "Rosaceae",
+    "order": "Rosales",
+    "genus": "Rubus",
+    "image": "https://fruitstorage.blob.core.windows.net/images/blackberry.png",
+    "nutritions": {
+    "calories": 40,
+    "fat": 0.4,
+    "sugar": 4.5,
+    "carbohydrates": 9,
+    "protein": 1.3
+    }
+    },
+    {
+    "name": "Lingonberry",
+    "id": 65,
+    "family": "Ericaceae",
+    "order": "Ericales",
+    "genus": "Vaccinium",
+    "image": "https://fruitstorage.blob.core.windows.net/images/lingonberry.png",
+    "nutritions": {
+    "calories": 50,
+    "fat": 0.34,
+    "sugar": 5.74,
+    "carbohydrates": 11.3,
+    "protein": 0.75
+    }
+    },
+    {
+    "name": "Kiwi",
+    "id": 66,
+    "family": "Actinidiaceae",
+    "order": "Struthioniformes",
+    "genus": "Apteryx",
+    "image": "https://fruitstorage.blob.core.windows.net/images/kiwi.png",
+    "nutritions": {
+    "calories": 61,
+    "fat": 0.5,
+    "sugar": 9,
+    "carbohydrates": 15,
+    "protein": 1.1
+    }
+    },
+    {
+    "name": "Lychee",
+    "id": 67,
+    "family": "Sapindaceae",
+    "order": "Sapindales",
+    "genus": "Litchi",
+    "image": "https://fruitstorage.blob.core.windows.net/images/lychee.png",
+    "nutritions": {
+    "calories": 66,
+    "fat": 0.44,
+    "sugar": 15,
+    "carbohydrates": 17,
+    "protein": 0.8
+    }
+    },
+    {
+    "name": "Pineapple",
+    "id": 10,
+    "family": "Bromeliaceae",
+    "order": "Poales",
+    "genus": "Ananas",
+    "image": "https://fruitstorage.blob.core.windows.net/images/pineapple.png",
+    "nutritions": {
+    "calories": 50,
+    "fat": 0.12,
+    "sugar": 9.85,
+    "carbohydrates": 13.12,
+    "protein": 0.54
+    }
+    },
+    {
+    "name": "Fig",
+    "id": 68,
+    "family": "Moraceae",
+    "order": "Rosales",
+    "genus": "Ficus",
+    "image": "https://fruitstorage.blob.core.windows.net/images/fig.png",
+    "nutritions": {
+    "calories": 74,
+    "fat": 0.3,
+    "sugar": 16,
+    "carbohydrates": 19,
+    "protein": 0.8
+    }
+    },
+    {
+    "name": "Gooseberry",
+    "id": 69,
+    "family": "Grossulariaceae",
+    "order": "Saxifragales",
+    "genus": "Ribes",
+    "image": "https://fruitstorage.blob.core.windows.net/images/gooseberry.png",
+    "nutritions": {
+    "calories": 44,
+    "fat": 0.6,
+    "sugar": 0,
+    "carbohydrates": 10,
+    "protein": 0.9
+    }
+    },
+    {
+    "name": "Passionfruit",
+    "id": 70,
+    "family": "Passifloraceae",
+    "order": "Malpighiales",
+    "genus": "Passiflora",
+    "image": "https://fruitstorage.blob.core.windows.net/images/passionfruit.png",
+    "nutritions": {
+    "calories": 97,
+    "fat": 0.7,
+    "sugar": 11.2,
+    "carbohydrates": 22.4,
+    "protein": 2.2
+    }
+    },
+    {
+    "name": "Plum",
+    "id": 71,
+    "family": "Rosaceae",
+    "order": "Rosales",
+    "genus": "Prunus",
+    "image": "https://fruitstorage.blob.core.windows.net/images/plum.png",
+    "nutritions": {
+    "calories": 46,
+    "fat": 0.28,
+    "sugar": 9.92,
+    "carbohydrates": 11.4,
+    "protein": 0.7
+    }
+    },
+    {
+    "name": "Orange",
+    "id": 2,
+    "family": "Rutaceae",
+    "order": "Sapindales",
+    "genus": "Citrus",
+    "image": "https://fruitstorage.blob.core.windows.net/images/orange.png",
+    "nutritions": {
+    "calories": 43,
+    "fat": 0.2,
+    "sugar": 8.2,
+    "carbohydrates": 8.3,
+    "protein": 1
+    }
+    },
+    {
+    "name": "GreenApple",
+    "id": 72,
+    "family": "Rosaceae",
+    "order": "Rosales",
+    "genus": "Malus",
+    "image": "https://fruitstorage.blob.core.windows.net/images/greenapple.png",
+    "nutritions": {
+    "calories": 21,
+    "fat": 0.1,
+    "sugar": 6.4,
+    "carbohydrates": 3.1,
+    "protein": 0.4
+    }
+    },
+    {
+    "name": "Raspberry",
+    "id": 23,
+    "family": "Rosaceae",
+    "order": "Rosales",
+    "genus": "Rubus",
+    "image": "https://fruitstorage.blob.core.windows.net/images/raspberry.png",
+    "nutritions": {
+    "calories": 53,
+    "fat": 0.7,
+    "sugar": 4.4,
+    "carbohydrates": 12,
+    "protein": 1.2
+    }
+    },
+    {
+    "name": "Apple",
+    "id": 6,
+    "family": "Rosaceae",
+    "order": "Rosales",
+    "genus": "Malus",
+    "image": "https://fruitstorage.blob.core.windows.net/images/apple.png",
+    "nutritions": {
+    "calories": 52,
+    "fat": 0.4,
+    "sugar": 10.3,
+    "carbohydrates": 11.4,
+    "protein": 0.3
+    }
+    },
+    {
+    "name": "Grape",
+    "id": 81,
+    "family": "Vitaceae",
+    "order": "Vitales",
+    "genus": "Vitis",
+    "image": "https://fruitstorage.blob.core.windows.net/images/grape.png",
+    "nutritions": {
+    "calories": 69,
+    "fat": 0.16,
+    "sugar": 16,
+    "carbohydrates": 18.1,
+    "protein": 0.72
+    }
+    }
+    ]
